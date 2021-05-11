@@ -1,5 +1,5 @@
 <?php 
-class categoryDB{
+class categoryClass{
 
     public static function get_category() {
         $db = Database::getDB();
