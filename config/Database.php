@@ -1,7 +1,7 @@
 <?php
     class Database { 
         //local development server connection
-        private  $dsn = 'mysql:host=localhost;dbname=zippyusedautos';
+        private  $dsn = 'mysql:host=localhost;dbname=quotesdb';
         private  $username = 'root';
         private $conn;
 
